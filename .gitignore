@@ -1,0 +1,15 @@
+*.o
+*.d
+*.a
+*.pod
+doc/*
+ffmpeg
+ffmpeg_g
+ffplay
+ffplay_g
+ffprobe
+ffprobe_g
+ffserver
+ffserver_g
+linux
+vim_cache
